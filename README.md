@@ -17,7 +17,7 @@ A simple and responsive To-Do List application built using **HTML**, **CSS**, an
 ## 🌐 Live Preview
 
 You can try the live version here:  
-http://127.0.0.1:5500/index.html
+https://pavan190807.github.io/TO-DO-LIST/
 
 ## 📁 Project Structure
 
