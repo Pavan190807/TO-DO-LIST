@@ -12,7 +12,7 @@ A simple and responsive To-Do List application built using **HTML**, **CSS**, an
 
 ## 📸 Demo
 
-![To-Do List Screenshot](Screenshot 2025-07-12 101813.png)
+<img width="1918" height="921" alt="Image" src="https://github.com/user-attachments/assets/cef799d8-05f1-48d8-9bb6-0bdfc11ab183" />
 
 ## 🌐 Live Preview
 
