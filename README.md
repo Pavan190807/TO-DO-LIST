@@ -17,7 +17,7 @@ A simple and responsive To-Do List application built using **HTML**, **CSS**, an
 ## 🌐 Live Preview
 
 You can try the live version here:  
-[🔗 Live Demo](https://your-live-link-here.com) *(optional)*
+http://127.0.0.1:5500/index.html
 
 ## 📁 Project Structure
 
