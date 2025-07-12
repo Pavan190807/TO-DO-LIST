@@ -21,3 +21,9 @@ You can try the live version here:
 
 ## 📁 Project Structure
 
+todo-list/
+│
+├── index.html # Main HTML file
+├── style.css # Styling for the app
+├── script.js # JavaScript functionality
+└── README.md # Project documentation
